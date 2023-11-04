@@ -2,4 +2,4 @@
 - 👀 I’m a software developer working on a HTML5 recreation of 2015-17 Club Penguin
 - 🌱 I’m currently working in NodeJS/Phaser 
 - 💞️ I’m looking to collaborate with anyone who shares a vision of bringing Club Penguin back to the web.
-- 📫 You can reach me by emailing octo@clubpenguin.plus, or contacting my Discord: OctoPlus#0001
+- 📫 You can reach me by emailing octo@clubpenguin.plus, or contacting my Discord: octoplus
